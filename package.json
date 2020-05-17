@@ -4,7 +4,8 @@
   "description": "Hide all img tag in html",
   "main": "index.js",
   "scripts": {
-    "run": "tsc src/main.ts && node src/main.js"
+    "watch": "rm dist -rf && webpack -w",
+    "build": "rm dist -rf && webpack"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,14 @@
   },
   "homepage": "https://github.com/Aoi-hosizora/hide-image-userscript#readme",
   "devDependencies": {
-    "typescript": "^3.9.2"
+    "@types/greasemonkey": "^4.0.0",
+    "@types/jquery": "^3.3.0",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.5",
+    "webpack": "^4.1.1"
+  },
+  "dependencies": {
+    "greasemonkey": "^1.0.3",
+    "jquery": "^3.3.1"
   }
 }
