@@ -5,12 +5,12 @@
 
 ### Usage
 
-+ Visit [hide-image.user.js](./dist/hide-images.user.js) to install userscript to `TamperMonkey` / `GreaseMonkey` plugin
++ Visit [hide-image.user.js](https://github.com/Aoi-hosizora/hide-images-userscript/raw/master/dist/hide-images.user.js) to install userscript to `TamperMonkey` / `GreaseMonkey` plugin
 
 ### Tips
 
 + The origin attribute will rename to `_xxx`, see the second screenshot.
-+ If the image is set in an unusual attribute or in css, it will have no effect, see the third screenshot.
++ If the image set in an unusual attribute or in css, it will have no effect, see the third screenshot.
 + This script is just for a temporary use, please stop in userscript control panel, see the fourth screenshot.
 
 ### Screenshot
