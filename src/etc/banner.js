@@ -4,11 +4,11 @@
 // @author       Aoi-hosizora
 // @description  An userscript for hiding all images in web
 // @namespace    *
-// @match        http*://*
+// @match        *://*/*
 // @copyright    2020+, Aoi-hosizora
 
-// @downloadURL  https://github.com/Aoi-hosizora/hide-image-userscript/raw/master/dist/hide-image.user.js
-// @updateURL    https://github.com/Aoi-hosizora/hide-image-userscript/raw/master/src/etc/banner.js
+// @downloadURL  https://github.com/Aoi-hosizora/hide-images-userscript/raw/master/dist/hide-image.user.js
+// @updateURL    https://github.com/Aoi-hosizora/hide-images-userscript/raw/master/src/etc/banner.js
 
 // @run-at       document-start
 // ==/UserScript==
