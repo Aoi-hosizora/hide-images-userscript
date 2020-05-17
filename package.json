@@ -1,0 +1,22 @@
+{
+  "name": "hide-image-userscript",
+  "version": "1.0.0",
+  "description": "Hide all img tag in html",
+  "main": "index.js",
+  "scripts": {
+    "run": "tsc src/main.ts && node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aoi-hosizora/hide-image-userscript.git"
+  },
+  "author": "Aoi-hosizora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aoi-hosizora/hide-image-userscript/issues"
+  },
+  "homepage": "https://github.com/Aoi-hosizora/hide-image-userscript#readme",
+  "devDependencies": {
+    "typescript": "^3.9.2"
+  }
+}
