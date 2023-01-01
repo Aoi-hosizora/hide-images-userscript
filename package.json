@@ -20,9 +20,9 @@
   "devDependencies": {
     "@types/greasemonkey": "^4.0.0",
     "@types/jquery": "^3.3.0",
-    "ts-loader": "^6.2.1",
+    "ts-loader": "^9.4.2",
     "typescript": "^3.7.5",
-    "webpack": "^4.1.1"
+    "webpack": "^5.75.0"
   },
   "dependencies": {
     "greasemonkey": "^1.0.3",
